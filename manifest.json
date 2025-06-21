@@ -1,0 +1,21 @@
+{
+  "name": "Aplikasi Nilai Dodiklatpur",
+  "short_name": "Nilai Dodiklatpur",
+  "description": "Aplikasi manajemen data nilai siswa Dodiklatpur Rindam XV/Pattimura",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#1a2a44",
+  "theme_color": "#2f4b29",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
